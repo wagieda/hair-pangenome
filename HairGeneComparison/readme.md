@@ -58,6 +58,7 @@ A detailed PDF report of all findings and comparisons is available here:
 ## 👩‍💻 Author
 
 **وجيدة هشام الطيب**  
+**WAGIEDA HISHAM ALTAYEB**
 Pharmacist & aspiring researcher in genomics and bioinformatics  
 📫 [wagieda.hisham@gmail.com](mailto:wagieda.hisham@gmail.com)
 
